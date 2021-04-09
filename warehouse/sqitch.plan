@@ -1,0 +1,21 @@
+%syntax-version=1.0.0
+%project=warehouse
+
+staging_schema 2021-04-10T00:58:53Z Sebastian Garrido <sebasgarcep@gmail.com> # Add staging schema to database
+staging_barcodes 2021-04-10T03:45:30Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for barcodes
+staging_colors 2021-04-10T04:12:55Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for colors
+staging_clothing_types 2021-04-10T04:28:25Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for clothing types
+staging_genders 2021-04-10T04:38:01Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for genders
+staging_silhouettes 2021-04-10T04:46:29Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for silhouettes
+staging_sizes 2021-04-10T04:55:47Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for sizes
+staging_inventory 2021-04-10T05:12:49Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for inventory
+staging_clients 2021-04-10T05:30:48Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for clients
+staging_invoices 2021-04-10T15:31:33Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for invoices
+staging_salespersons 2021-04-10T16:19:14Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for salespersons
+staging_sales 2021-04-10T17:06:35Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for sales
+staging_payments 2021-04-10T17:25:00Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates the staging table for payments
+public_barcodes 2021-04-18T23:22:34Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates production table for barcodes
+public_clients 2021-04-18T23:22:56Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates production table for clients
+public_invoices 2021-04-18T23:54:09Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates production table for invoices
+public_payments 2021-04-18T23:54:20Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates production table for payments
+public_sales 2021-04-18T23:54:30Z Sebastian Garrido <sebasgarcep@gmail.com> # Creates production table for sales

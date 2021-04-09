@@ -1,2 +1,6 @@
 service_account.json
+warehouse_account.json
+bucket_names.json
+__pycache__
 data/*
+!data/.gitkeep
